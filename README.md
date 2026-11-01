@@ -1,3 +1,11 @@
+> ## GETDiffusion — University of Michigan BIOINF 593 project
+>
+> **For recruiters / 课程研究展示：** The GETDiffusion team adaptation and Kenny Chen's documented contribution are presented on the [**getdiffusion-portfolio branch**](https://github.com/sorryKenny/get_multimodel/tree/getdiffusion-portfolio). That branch retains the team's DiT implementation, experimental artifacts, Chinese/English overview, and honest author attribution. **This default-branch README below describes the upstream GET model, not Kenny's independent research publication.**
+>
+> **项目说明：** 请点击上方 GETDiffusion 项目分支查看课程团队研究与个人贡献；下方保留的是上游 GET 项目的原始文档。
+>
+---
+
 # GET: General Expression Transformer
 
 ## The Manifolds edit!
