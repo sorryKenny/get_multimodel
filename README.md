@@ -114,4 +114,3 @@ The manuscript credits all authors with the conception of the project. This port
 - **Publication status:** The GETDiffusion work was a **December 2025 course research manuscript**, not a peer-reviewed Oxford University Press or other journal publication. A GitHub repository URL is not a DOI.
 - **Licensing:** This fork inherits material from GET. Follow upstream licenses and attribution requirements; this project summary does not grant new rights.
 
-> **For recruiters:** This page summarizes the research question, model adaptation, experimental evidence, limitations, and verified division of team responsibilities. The team implementation should not be interpreted as independently authored by the portfolio owner.
